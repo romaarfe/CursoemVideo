@@ -3,5 +3,5 @@
 
 # Curso em Vídeo 
 - ### Prof. Gustavo Guanabara
-## Python 3
-- ### Exercícios
+## Python 3 - Mundo 1
+- ### Exercícios 01 - 35
