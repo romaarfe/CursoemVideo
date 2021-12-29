@@ -1,4 +1,4 @@
-<a href="https://www.cursoemvideo.com/">
+<a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">
 <img align="right" height="120em" src="https://i.ibb.co/DMwPWq3/curso.jpg"></a>
 
 # Curso em Vídeo 
