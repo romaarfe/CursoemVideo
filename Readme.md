@@ -28,9 +28,9 @@
 20) O mesmo professor do desafio 19 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 21) Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
 22)  Crie um programa que leia o nome completo de uma pessoa e mostre:
- – O nome com todas as letras maiúsculas e minúsculas.
- – Quantas letras ao todo (sem considerar espaços).
- – Quantas letras tem o primeiro nome.
+– O nome com todas as letras maiúsculas e minúsculas.
+– Quantas letras ao todo (sem considerar espaços).
+– Quantas letras tem o primeiro nome.
 23) Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 24) Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
 25) Crie um programa que leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
